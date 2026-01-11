@@ -7,5 +7,6 @@ python3.6+
 # 依赖
 pip install -r requirements.txt
 # 运行
+在bili_cookie里面写上自己的cookie
 运行 main.bat 即可
 
